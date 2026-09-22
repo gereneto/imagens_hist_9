@@ -1,0 +1,12 @@
+# Imagens são binárias: sem conversão de fim de linha (corromperia os arquivos)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.tif binary
+*.tiff binary
+# SVG é texto, mas deve chegar ao servidor como está
+*.svg -text
+*.html text eol=lf
+*.md text eol=lf
