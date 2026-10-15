@@ -13,6 +13,7 @@ O site tem duas seções, acessíveis pelas abas no alto de qualquer página:
   versão melhor no Wikimedia Commons.
 - **Sugeridas** — imagens novas, numeradas, para preencher trechos sem ilustração
   (*lacuna*) ou para substituir uma imagem já presente (*substitui a imagem N*).
+  A unidade 12, ainda sem texto, tem só sugestões (84, do Wikimedia Commons).
 
 Há ainda uma terceira página, **Pendências de direitos**, ligada a partir do início: reúne
 as imagens do livro para as quais não se achou versão de licença livre.
@@ -29,7 +30,7 @@ destacada; as cinzas ainda não têm imagens catalogadas.
 | Com equivalente próximo no Commons | 85 |
 | **Sem licença livre identificada** | **154** |
 | Ícones, esquemas e gráficos da autora | 10 |
-| Sugestões novas (124 lacunas + 44 substituições) | **168** |
+| Sugestões novas (208 lacunas + 44 substituições) | **252** |
 
 ## Como escolher
 
